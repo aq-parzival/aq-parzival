@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aq-parzival
+- 👋 Hi, I’m Aaron
 - 👀 I’m interested in improving
 - 🌱 I’m currently learning Java, Jupyter, Pandas and Git
 - 💞️ I’m looking to collaborate on ...
