@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- Computer Science and Business Analytics GRaduate at University of Auckland
+- Computer Science and Business Analytics Graduate at University of Auckland
 
 <!---
 aq-parzival/aq-parzival is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
