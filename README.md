@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Aaron
-- 👀 I’m interested in improving
-- 🌱 I’m currently learning Java, Jupyter, Pandas and Git
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Computer Science and Business Analytics GRaduate at University of Auckland
 
 <!---
 aq-parzival/aq-parzival is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
